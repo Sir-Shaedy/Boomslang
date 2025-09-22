@@ -18,7 +18,7 @@ Testing Vyper contracts directly in Foundry:
 
 1. **Initialize a Moccasin template**
    ```bash
-   moccasin init my-project
+   mox init 
    ```
 
 2. **Force initialize a Foundry template in the same directory**
