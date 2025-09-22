@@ -56,17 +56,6 @@ Testing Vyper contracts directly in Foundry:
     }
     ```
 
-## Project Structure
-my-project/
-├── src/
-│   ├── Counter.vy
-│   └── ICounter.sol
-├── test/
-│   └── CounterTest.t.sol
-├── foundry.toml
-├── moccasin.toml
-└── README.md
-
 ## Running Tests
 ```bash
 forge test -vvv
